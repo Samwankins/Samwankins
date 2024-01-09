@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## My repo account has been transferred to [Almohandis](https://github.com/Almohandis)
+## My Github account has been transferred to [Almohandis](https://github.com/Almohandis)
